@@ -6,7 +6,7 @@
 # This Script will report the AWS Resource Usage
 ########################
 
-Set -x
+set -x
 
 # AWS S3
 # AWS EC2
